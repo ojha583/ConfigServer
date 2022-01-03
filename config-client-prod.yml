@@ -1,2 +1,2 @@
 message: prod message coming from config
-password: {cipher}c0f2a6c77a9f4a218534174f53bcdf982a8a93fbd40c3d681ca03266c311f05d
+password: '{cipher}c0f2a6c77a9f4a218534174f53bcdf982a8a93fbd40c3d681ca03266c311f05d'
